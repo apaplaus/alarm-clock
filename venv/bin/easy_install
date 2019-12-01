@@ -1,4 +1,4 @@
-#!/home/andrei/Dropbox/alarm/venv/bin/python3
+#!/home/andrei/Dropbox/alarm_project/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

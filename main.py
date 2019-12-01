@@ -1,2 +1,4 @@
+from tests import alarm_test
+
 if __name__ == "__main__":
-    print("Hello world!")
+    alarm_test.AlarmTest().run()
