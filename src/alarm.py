@@ -3,7 +3,7 @@ from datetime import datetime
 from datetime import time
 from kivy.core.audio import SoundLoader
 
-from alarm_exception import AlarmException
+from src.alarm_exception import AlarmException
 
 
 class Alarm:

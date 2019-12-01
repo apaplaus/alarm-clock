@@ -1,5 +1,5 @@
-from alarm import Alarm
-from alarm_exception import AlarmException
+from src.alarm import Alarm
+from src.alarm_exception import AlarmException
 
 class AlarmClock:
     def __init__(self, maxCapacity=10):
